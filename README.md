@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme Prates
 
-- Estou estudando na ???
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Utilizo esse espaço contra minha vontade
 
 
